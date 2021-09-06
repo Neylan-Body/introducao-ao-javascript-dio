@@ -1,6 +1,6 @@
+//esse this referencia esse escopo de função 
 (() => {
   this.name = "arrow function";
-
   const getNameArrowFn = () => this.name;
 
   function getName() {

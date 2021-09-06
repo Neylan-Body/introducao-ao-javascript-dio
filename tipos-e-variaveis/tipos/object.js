@@ -18,3 +18,5 @@ user.lastName = "Cabrini da Silva";
 
 // Deletando uma propriedade
 delete user.name;
+
+console.log(user);
